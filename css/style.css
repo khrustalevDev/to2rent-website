@@ -300,3 +300,7 @@ body {
     display: inline-block;
     line-height: 18px;
 }
+
+.about {
+    margin-top: 100px;
+}
